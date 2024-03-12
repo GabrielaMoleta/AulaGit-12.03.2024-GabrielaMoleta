@@ -2,6 +2,7 @@
 console.log("Esta é a sua casa, seja bem vindo")
 //Declarei a variavel f
 let f = 65
+//DEclarei a variavel let c
 let c = (f - 32 * 5 / 9);
 //Declarei um console de fahrenheit
 console.log(f.toFixed(1) + " fahrenheit");
