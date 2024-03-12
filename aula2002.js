@@ -1,5 +1,5 @@
 //Adicionei uma mensagem
-console.log("Seja Muito Bem Vindo a sua casa")
+console.log("Esta é a sua casa, seja bem vindo")
 //Declarei a variavel f
 let f = 65
 let c = (f - 32 * 5 / 9);
